@@ -1,19 +1,10 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1730495094021 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1730951643139 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730495097083 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730495100143 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730951646225 tunnel running, 2 tunnels registered
 
 
 TUNNELS
@@ -22,61 +13,109 @@ introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1730495115252 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730951661344 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730495118318 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730951664416 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730495121385 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730951667475 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730495124533 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730951670541 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730495127601 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730951673598 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730495130664 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730951676663 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730495133728 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730951679732 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730495136789 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730951682794 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730495139856 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730951685908 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730495142917 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730951688962 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951692020 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951695080 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951698145 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951701252 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951704307 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951707361 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951710439 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951713498 tunnel running, 2 tunnels registered
 
 
 TUNNELS
@@ -85,3 +124,843 @@ introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730951728589 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951731647 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951734711 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951737806 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951740884 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730951755973 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951759039 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951762116 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951765172 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951768234 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951771305 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951774363 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730951789455 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951792534 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951795592 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951798665 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951801732 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730951816829 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951819893 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951822950 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951826023 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951829089 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951832177 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951835240 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951838297 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951841361 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951844430 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951847487 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951850661 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951853718 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951856778 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951859840 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951862906 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951865968 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951869033 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951872109 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951875168 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951878226 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951881290 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951884358 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951887439 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951890500 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951893578 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730951908689 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951911747 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951914812 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951917882 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730951932989 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951936061 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951939126 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951942195 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951945265 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951948328 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951951392 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951954454 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951957532 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730951972617 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951975674 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951978732 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951981793 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951984871 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951987951 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951991012 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951994068 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730951997130 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952000189 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952003253 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730952018346 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952021405 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952024474 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952027544 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952030615 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952033673 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730952048776 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952051831 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952054898 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952057963 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952061025 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952064088 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952067152 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952070215 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952073275 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952076345 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952079429 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952082489 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952085559 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952088609 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952091674 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952094732 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952097829 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952100898 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952103958 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952107015 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952110078 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952113139 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952116200 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952119264 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952122385 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952125441 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952128504 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952131566 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952134628 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952137803 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952140856 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952143916 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952146971 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952150065 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952153122 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952156185 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952159251 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952162324 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952165391 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952168471 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952171533 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952174598 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952177666 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952180719 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952183776 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952186839 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952189904 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952192978 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952196033 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952199093 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952202271 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952205329 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952208386 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952211471 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952214529 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952217591 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952220652 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952223720 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952226958 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952230010 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952233192 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952236460 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730952239527 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+events-small.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+introduction-trains.gl.at.ply.gg:1503 => 127.0.0.1:1503 (minecraft-bedrock)
